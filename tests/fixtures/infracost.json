@@ -1,0 +1,6 @@
+{
+  "currency": "USD",
+  "beforeMonthlyCost": "$10.00",
+  "afterMonthlyCost": "$12.50",
+  "monthlyCostDelta": "$2.50"
+}
