@@ -1,0 +1,4 @@
+weights:
+  default: 1
+  aws_iam_role: 3
+  aws_db_instance: 3
